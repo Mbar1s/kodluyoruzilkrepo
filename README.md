@@ -1,4 +1,4 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-![image](/adsız.png)
+![image](/Adsız.png)
